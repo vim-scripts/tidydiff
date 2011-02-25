@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3470
+
+tidydiff calls perltidy on the current file, splits the window, and diffs it against the .tdy file.
+
+Comments and suggestions should be directed to dbbolton on Github.
